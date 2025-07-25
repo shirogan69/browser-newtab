@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Custom New Tab - Material You",
+  "version": "1.0.0",
+  "description": "A beautiful, Material You-inspired custom new tab page with dynamic greeting, live time widget, and quick search functionality.",
+  "permissions": [],
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "author": "shirogan69"
+}
